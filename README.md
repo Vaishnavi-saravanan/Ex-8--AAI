@@ -42,7 +42,6 @@ except Exception as e:
 
 
 <H3> Output:</H3>
-
 ![1 (2)](https://github.com/user-attachments/assets/b5b86077-1ba5-4e08-8ed8-7287ff2f540e)
 
 <H3> Result:</H3>
