@@ -43,7 +43,8 @@ except Exception as e:
 
 <H3> Output:</H3>
 
-![1 (2)](https://github.com/user-attachments/assets/b5b86077-1ba5-4e08-8ed8-7287ff2f540e)
+![1222151](https://github.com/user-attachments/assets/28012f43-8ed7-4555-ae73-37aa56bfb098)
+
 
 <H3> Result:</H3>
 Thus, the python program for Speech Recognition is implemented successfully.
