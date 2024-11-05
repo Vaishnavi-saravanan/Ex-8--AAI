@@ -45,3 +45,4 @@ except Exception as e:
 ![Screenshot 2024-11-05 223030](https://github.com/user-attachments/assets/04a6f328-3e5b-4319-9b33-ee28eb7cee6b)
 
 <H3> Result:</H3>
+Thus, the python program for Speech Recognition is implemented successfully.
